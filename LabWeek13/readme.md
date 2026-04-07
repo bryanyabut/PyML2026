@@ -1,3 +1,10 @@
+## Lab 13
+
+1. Start with `Functions_Tools-Walkthrough` as a demo
+1. Use `Research_Agent_ToolCalling-Exercise` as a practice exercise
+1. Optional part `Email_Assistant-Optional`
+
+
 ### Create a virtual environment and install the required packages:
 
 ```bash
